@@ -1,4 +1,5 @@
 # EasyBilingualSpeechLLCSchedule
+The website's calendar functionality is temporarily disabled due to issues with webpack.
 
 IB Computer Science HL Internal Assessment — Scheduling WebApp
 
